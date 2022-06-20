@@ -37,7 +37,7 @@ https://github.com/giedrebi/BIT_SPRINT_SQL_7.git
 
 7. In top of MySQL Workbench choose `Server -> Data import`:
 
-<img src="readme_images/import.png" width="100">
+<img src="readme_images/import.png" width="300">
 
 8. Then, in Data import tab, you need to do these steps:
     * section Import Options - select `Import from Self-Contained File`, and choose file from cloned repository Dump.sql,
@@ -45,11 +45,11 @@ https://github.com/giedrebi/BIT_SPRINT_SQL_7.git
     * go to Import Progress and press `Start Import`.
     * reload schema, then database with new tables should be there.
 
-<img src="readme_images/dataimport.png" width="200">
+<img src="readme_images/dataimport.png" width="600">
 
 9. Run XAMPP and start Apache and MySQL Web Server.
 
-<img src="readme_images/XAMPP.png" width="100">
+<img src="readme_images/XAMPP.png" width="300">
 
 10. Open your browser and in the search bar type:
 
